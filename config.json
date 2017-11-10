@@ -1,0 +1,47 @@
+{
+	"config":{
+		"address":{
+				orgname:"McDonald", 
+				address1:"15459 CULVER DRIVE",
+				address2:"IRVINE, CA 92606",
+				phone:"949-552-5959",
+				smsto:"+123",
+				bid:"b01",
+
+		},
+		"products":[{
+					'pid':'1001',
+					'pname':'Coffee',
+					'price':2.00
+				},
+				{
+					'pid':'1002',
+					'pname':'Americano',
+					'price':3.00
+				},
+				{
+					'pid':'1003',
+					'pname':'Cafe au Latte',
+					'price':4.00
+				},
+				{
+					'pid':'1004',
+					'pname':'Cafe Mocha',
+					'price':4.00
+				},
+				{
+					'pid':'1005',
+					'pname':'Espresso',
+					'price':4.00
+				},
+				{
+					'pid':'1006',
+					'pname':'Machiato',
+					'price':4.00
+				},
+				{
+					'pid':'1007',
+					'pname':'Capaccino',
+					'price':4.00
+				}]
+}
