@@ -22,7 +22,7 @@
 				{
 					"pid":"1003",
 					"pname":"Cafe au Latte",
-					"price":4.00
+					"price":4.10
 				},
 				{
 					"pid":"1004",
@@ -32,7 +32,7 @@
 				{
 					"pid":"1005",
 					"pname":"Espresso",
-					"price":4.00
+					"price":3.20
 				},
 				{
 					"pid":"1006",
@@ -43,6 +43,16 @@
 					"pid":"1007",
 					"pname":"Capaccino",
 					"price":4.00
+				},
+			        {
+					"pid":"1008",
+					"pname":"Picolo",
+					"price":4.00
+				},
+				{
+					"pid":"1009",
+					"pname":"Hot chocolate",
+					"price":3.80
 				}]
 			}
 }
