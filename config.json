@@ -124,22 +124,7 @@
 					"pname":"8 LAYER VEGGIE BURRITO",
 					"price":3.80
 				},
-							        {
-					"pid":"1021",
-					"pname":"CARNE ASADA WET BURRITO PLATO",
-					"price":4.00
-				},
-				{
-					"pid":"1022",
-					"pname":"CHICKEN VERDE WET BURRITO PLATO",
-					"price":3.80
-				},
-				{
-					"pid":"1023",
-					"pname":"2 STREET TACOS PLATO",
-					"price":4.00
-				},
-			        {
+			    {
 					"pid":"1024",
 					"pname":"FOUNTAIN DRINKS",
 					"price":4.00
