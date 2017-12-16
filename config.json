@@ -80,51 +80,51 @@
 					"price":4.00
 				},
 				{
-					"pid":"1012",
+					"pid":"1015",
 					"pname":"EPIC QUESO CHICKEN BURRITO",
 					"price":3.80
 				},
 				{
-					"pid":"1013",
+					"pid":"1016",
 					"pname":"EPIC CHIPOTLE CHICKEN AVOCADO BURRITO",
 					"price":4.00
 				},
 			        {
-					"pid":"1014",
+					"pid":"1017",
 					"pname":"EPIC CARNE ASADA BURRITO",
 					"price":4.00
 				},
 				{
-					"pid":"1015",
+					"pid":"1018",
 					"pname":"EPIC GRILLED CHICKEN AVOCADO BURRITO",
 					"price":3.80
 				},
 			        {
-					"pid":"1016",
+					"pid":"1019",
 					"pname":"EPIC STEAK & POTATO BURRITO",
 					"price":4.00
 				},
 				{
-					"pid":"1017",
+					"pid":"1020",
 					"pname":"EPIC CALI STEAK & GUAC BURRITO",
 					"price":3.80
 				},
 				{
-					"pid":"1018",
+					"pid":"1021",
 					"pname":"DEL COMBO BURRITO",
 					"price":4.00
 				},
 			        {
-					"pid":"1019",
+					"pid":"1022",
 					"pname":"DEL BEEF BURRITO",
 					"price":4.00
 				},
 				{
-					"pid":"1020",
+					"pid":"1023",
 					"pname":"8 LAYER VEGGIE BURRITO",
 					"price":3.80
 				},
-			    {
+			        {
 					"pid":"1024",
 					"pname":"FOUNTAIN DRINKS",
 					"price":4.00
@@ -133,14 +133,15 @@
 					"pid":"1025",
 					"pname":"REAL STRAWBERRY LEMONADE",
 					"price":3.80
-				},			        {
+				},			        
+			        {
 					"pid":"1026",
-					"pname":"FOUNTAIN DRINKS",
+					"pname":"PRIMA JAVA ICED COFFEE",
 					"price":4.00
 				},
 				{
 					"pid":"1027",
-					"pname":"PRIMA JAVA ICED COFFEE",
+					"pname":"GOLD PEAK® ICED TEA",
 					"price":3.80
 				}]
 			}
