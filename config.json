@@ -12,136 +12,163 @@
 		"products":[{
 					"pid":"1001",
 					"pname":"CARNE ASADA WET BURRITO PLATO",
+					"type":1,
 					"price":2.00
 				},
 				{
 					"pid":"1002",
 					"pname":"CHICKEN VERDE WET BURRITO PLATO",
+					"type":1,
 					"price":3.00
 				},
 				{
 					"pid":"1003",
 					"pname":"2 STREET TACOS PLATO",
+					"type":1,
 					"price":4.10
 				},
 				{
 					"pid":"1004",
 					"pname":"2 BEER BATTERED FISH TACOS PLATO",
+					"type":1,
 					"price":4.00
 				},
 				{
 					"pid":"1005",
 					"pname":"THE DEL TACO (CRUNCHY)",
+					"type":2,
 					"price":3.20
 				},
 				{
 					"pid":"1006",
 					"pname":"THE DEL TACO (SOFT)",
+					"type":2,
 					"price":4.00
 				},
 				{
 					"pid":"1007",
 					"pname":"THE TURKEY DEL TACO (CRUNCHY)",
+					"type":2,
 					"price":4.00
 				},
 			        {
 					"pid":"1008",
 					"pname":"THE TURKEY DEL TACO (SOFT)",
+					"type":2,
 					"price":4.00
 				},
 				{
 					"pid":"1009",
 					"pname":"STREET TACOS",
+					"type":2,
 					"price":3.80
 				},
 				{
 					"pid":"1010",
 					"pname":"FLATBREAD TACOS(CHICKEN OR CARNE ASADA)",
+					"type":2,
 					"price":4.00
 				},
 			        {
 					"pid":"1011",
 					"pname":"BEER BATTERED FISH TACO",
+					"type":2,
 					"price":4.00
 				},
 				{
 					"pid":"1012",
 					"pname":"GRILLED CHICKEN TACO",
+					"type":2,
 					"price":3.80
 				},
 				{
 					"pid":"1013",
 					"pname":"VALUE TACO",
+					"type":2,
 					"price":4.00
 				},
 			        {
 					"pid":"1014",
 					"pname":"QUESO CRUNCH TACO",
+					"type":2,
 					"price":4.00
 				},
 				{
 					"pid":"1015",
 					"pname":"EPIC QUESO CHICKEN BURRITO",
+					"type":3,
 					"price":3.80
 				},
 				{
 					"pid":"1016",
 					"pname":"EPIC CHIPOTLE CHICKEN AVOCADO BURRITO",
+					"type":3,
 					"price":4.00
 				},
 			        {
 					"pid":"1017",
 					"pname":"EPIC CARNE ASADA BURRITO",
+					"type":3,
 					"price":4.00
 				},
 				{
 					"pid":"1018",
 					"pname":"EPIC GRILLED CHICKEN AVOCADO BURRITO",
+					"type":3,
 					"price":3.80
 				},
 			        {
 					"pid":"1019",
 					"pname":"EPIC STEAK & POTATO BURRITO",
+					"type":3,
 					"price":4.00
 				},
 				{
 					"pid":"1020",
 					"pname":"EPIC CALI STEAK & GUAC BURRITO",
+					"type":3,
 					"price":3.80
 				},
 				{
 					"pid":"1021",
 					"pname":"DEL COMBO BURRITO",
+					"type":3,
 					"price":4.00
 				},
 			        {
 					"pid":"1022",
 					"pname":"DEL BEEF BURRITO",
+					"type":3,
 					"price":4.00
 				},
 				{
 					"pid":"1023",
 					"pname":"8 LAYER VEGGIE BURRITO",
+					"type":3,
 					"price":3.80
 				},
 			        {
 					"pid":"1024",
 					"pname":"FOUNTAIN DRINKS",
+					"type":4,
 					"price":4.00
 				},
 				{
 					"pid":"1025",
 					"pname":"REAL STRAWBERRY LEMONADE",
+					"type":4,
 					"price":3.80
 				},			        
 			        {
 					"pid":"1026",
 					"pname":"PRIMA JAVA ICED COFFEE",
+					"type":4,
 					"price":4.00
 				},
 				{
 					"pid":"1027",
 					"pname":"GOLD PEAK® ICED TEA",
+					"type":4,
 					"price":3.80
 				}]
 			}
