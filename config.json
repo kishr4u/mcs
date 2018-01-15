@@ -6,10 +6,15 @@
 				"address2":"ANAHEIM, CA 92802",
 				"phone":"(714) 971-5239",
 				"smsto":"+123",
-				"branchid":"ADELANTO"
+				"bid":"b001"
 
 		},
-		"branches":["ADELANTO", "ALISO VIEJO", "N HARBOR BLVD, ANAHEIM", "S HARBOR BLVD, ANAHEIM", "N EUCLID ST ANAHEIM", "E LINCOLN AVE ANAHEIM"],
+		"branches":[{"bid":"b001", "bname":"ADELANTO"},
+{"bid":"b002", "bname":"ALISO VIEJO"},
+{"bid":"b003", "bname":"N HARBOR BLVD, ANAHEIM"},
+{"bid":"b004", "bname":"S HARBOR BLVD, ANAHEIM"},
+{"bid":"b005", "bname":"N EUCLID ST ANAHEIM"},
+{"bid":"b006", "bname":"E LINCOLN AVE ANAHEIM"}],
 		"products":[{
 					"pid":"1001",
 					"pname":"CARNE ASADA WET BURRITO PLATO",
