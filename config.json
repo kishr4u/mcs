@@ -9,6 +9,8 @@
 				"bid":"b001"
 
 		},
+		"shortUrlFinder":"http://localhost:5050/encode",
+		"inittext":"\n\nText 1 to begin conversation in english or rs to reschedule at a specific date and time. At any point of the conversation text ? for help and # to stop:\n",
 		"branches":[{"bid":"b001", "bname":"ADELANTO"},
 {"bid":"b002", "bname":"ALISO VIEJO"},
 {"bid":"b003", "bname":"N HARBOR BLVD, ANAHEIM"},
@@ -71,75 +73,75 @@
 				},
 				{
 					"pid":"1010",
-					"pname":"FLATBREAD TACOS(CHICKEN OR CARNE ASADA)",
+					"pname":"POTATO WEDGES",
 					"type":2,
-					"price":4.00
+					"price":40.00
 				},
 			        {
 					"pid":"1011",
-					"pname":"BEER BATTERED FISH TACO",
+					"pname":"FISH TACO",
 					"type":2,
-					"price":4.00
+					"price":40.00
 				},
 				{
 					"pid":"1012",
 					"pname":"GRILLED CHICKEN TACO",
 					"type":2,
-					"price":3.80
+					"price":380
 				},
 				{
 					"pid":"1013",
 					"pname":"VALUE BURGER",
 					"type":2,
-					"price":4.00
+					"price":40.00
 				},
 			        {
 					"pid":"1014",
 					"pname":"QUESO CRUNCH TACO",
 					"type":2,
-					"price":4.00
+					"price":74.00
 				},
 				{
 					"pid":"1015",
 					"pname":"EPIC QUESO CHICKEN BURRITO",
 					"type":3,
-					"price":3.80
+					"price":380
 				},
 				{
 					"pid":"1016",
 					"pname":"EPIC CHIPOTLE CHICKEN AVOCADO BURRITO",
 					"type":3,
-					"price":4.00
+					"price":400.00
 				},
 			        {
 					"pid":"1017",
 					"pname":"EPIC CARNE ASADA BURRITO",
 					"type":3,
-					"price":4.00
+					"price":224.00
 				},
 				{
 					"pid":"1018",
 					"pname":"EPIC GRILLED CHICKEN AVOCADO BURRITO",
 					"type":3,
-					"price":3.80
+					"price":380
 				},
 			        {
 					"pid":"1019",
 					"pname":"STEAK & POTATO BURRITO",
 					"type":3,
-					"price":4.00
+					"price":40.00
 				},
 				{
 					"pid":"1020",
 					"pname":"EPIC CALI STEAK & GUAC BURRITO",
 					"type":3,
-					"price":3.80
+					"price":380
 				},
 				{
 					"pid":"1021",
 					"pname":"DEL COMBO BURRITO",
 					"type":3,
-					"price":4.00
+					"price":45.00
 				},
 			        {
 					"pid":"1022",
@@ -157,25 +159,25 @@
 					"pid":"1024",
 					"pname":"FOUNTAIN DRINKS",
 					"type":4,
-					"price":4.00
+					"price":40
 				},
 				{
 					"pid":"1025",
 					"pname":"REAL STRAWBERRY LEMONADE",
 					"type":4,
-					"price":3.80
+					"price":380
 				},			        
 			        {
 					"pid":"1026",
 					"pname":"PRIMA JAVA ICED COFFEE",
 					"type":4,
-					"price":4.00
+					"price":40
 				},
 				{
 					"pid":"1027",
 					"pname":"GOLD PEAK® ICED TEA",
 					"type":4,
-					"price":3.80
+					"price":32
 				}]
 			}
 }
