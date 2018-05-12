@@ -1,1 +1,41 @@
+{
 
+
+	"branches": [{
+			"bid": "cfb001",
+			"bname": "Nungambakkam Chennai",
+			"city" : "Chennai",
+			"geo": "Tamilnadu"
+		},
+		{
+			"bid": "cfb002",
+			"bname": "Egmore Chennai",
+			"city": "Chennai",
+			"geo": "Tamilnadu"
+		},
+		{
+			"bid": "cfb003",
+			"bname": "Adyar Chennai",
+			"city": "Chennai",
+			"geo": "Tamilnadu"
+		},
+		{
+			"bid": "cfb004",
+			"bname": "Gandhi Road Bangalore",
+			"city": "Bangalore",
+			"geo": "Karnataka"
+		},
+		{
+			"bid": "cfb005",
+			"bname": "Banaswadi Bangalore",
+			"city": "Bangalore",
+			"geo": "Karnataka"
+		},
+		{
+			"bid": "cfb006",
+			"bname": "Whitefield Bangalore",
+			"city": "Bangalore",
+			"geo": "Karnataka"
+		}
+	]
+}
