@@ -10,7 +10,7 @@
 
 		},
 		"shortUrlFinder":"http://localhost:5050/encode",
-		"inittext":"\n\nText 1 to begin conversation in english or rs to reschedule at a specific date and time. At any point of the conversation text ? for help and # to stop:\n",
+		"inittext":"\n\nSend this message to 917288806661 to begin the convesration. At any point text ? for help and # to stop:\n",
 		"branches":[{"bid":"b001", "bname":"ADELANTO"},
 {"bid":"b002", "bname":"ALISO VIEJO"},
 {"bid":"b003", "bname":"N HARBOR BLVD, ANAHEIM"},
