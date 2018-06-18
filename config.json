@@ -10,7 +10,7 @@
 
 		},
 		"shortUrlFinder":"http://localhost:5050/encode",
-		"inittext":"\n\nSend this message to 917288806661 to begin the conversation. At any point text t for tamil, ? for help and # to stop:\n",
+		"inittext":"\n\nSend this message to 917288806661 to begin the conversation. For tamil text t.At any point press # to stop and ? for help:\n",
 		"branches":[{"bid":"b001", "bname":"ADELANTO"},
 {"bid":"b002", "bname":"ALISO VIEJO"},
 {"bid":"b003", "bname":"N HARBOR BLVD, ANAHEIM"},
