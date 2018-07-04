@@ -1,0 +1,183 @@
+{
+	"config":{
+		"address":{
+				"orgname":"McDonald", 
+				"address1":"2330 S HARBOR BLVD",
+				"address2":"ANAHEIM, CA 92802",
+				"phone":"8997105239",
+				"smsto":"+917288806661",
+				"bid":"b001"
+
+		},
+		"shortUrlFinder":"http://localhost:5050/encode",
+		"inittext":"\n\nSend this message to 917288806661 to begin the conversation. For tamil text t.At any point press # to stop and ? for help:\n",
+		"branches":[{"bid":"b001", "bname":"ADELANTO"},
+{"bid":"b002", "bname":"ALISO VIEJO"},
+{"bid":"b003", "bname":"N HARBOR BLVD, ANAHEIM"},
+{"bid":"b004", "bname":"S HARBOR BLVD, ANAHEIM"},
+{"bid":"b005", "bname":"N EUCLID ST ANAHEIM"},
+{"bid":"b006", "bname":"E LINCOLN AVE ANAHEIM"}],
+		"products":[{
+					"pid":"1001",
+					"pname":"VEGGIE BURGER",
+					"type":1,
+					"price":80.00
+				},
+				{
+					"pid":"1002",
+					"pname":"CHICKEN BURGER",
+					"type":1,
+					"price":120.00
+				},
+				{
+					"pid":"1003",
+					"pname":"ALOO PATTY BURGER",
+					"type":1,
+					"price":150.10
+				},
+				{
+					"pid":"1004",
+					"pname":"FISH AND CHIPS",
+					"type":1,
+					"price":200.00
+				},
+				{
+					"pid":"1005",
+					"pname":"MEDIUM FRIES",
+					"type":2,
+					"price":120
+				},
+				{
+					"pid":"1006",
+					"pname":"LARGE FRIES",
+					"type":2,
+					"price":180.00
+				},
+				{
+					"pid":"1007",
+					"pname":"VEGGIE PATTY",
+					"type":2,
+					"price":40.00
+				},
+			        {
+					"pid":"1008",
+					"pname":"SPICY PANEER BURGER",
+					"type":2,
+					"price":220.00
+				},
+				{
+					"pid":"1009",
+					"pname":"CHICKEN WINGS",
+					"type":2,
+					"price":220.00
+				},
+				{
+					"pid":"1010",
+					"pname":"POTATO WEDGES",
+					"type":2,
+					"price":40.00
+				},
+			        {
+					"pid":"1011",
+					"pname":"FISH TACO",
+					"type":2,
+					"price":40.00
+				},
+				{
+					"pid":"1012",
+					"pname":"GRILLED CHICKEN TACO",
+					"type":2,
+					"price":380
+				},
+				{
+					"pid":"1013",
+					"pname":"VALUE BURGER",
+					"type":2,
+					"price":40.00
+				},
+			        {
+					"pid":"1014",
+					"pname":"QUESO CRUNCH TACO",
+					"type":2,
+					"price":74.00
+				},
+				{
+					"pid":"1015",
+					"pname":"EPIC QUESO CHICKEN BURRITO",
+					"type":3,
+					"price":380
+				},
+				{
+					"pid":"1016",
+					"pname":"EPIC CHIPOTLE CHICKEN AVOCADO BURRITO",
+					"type":3,
+					"price":400.00
+				},
+			        {
+					"pid":"1017",
+					"pname":"EPIC CARNE ASADA BURRITO",
+					"type":3,
+					"price":224.00
+				},
+				{
+					"pid":"1018",
+					"pname":"EPIC GRILLED CHICKEN AVOCADO BURRITO",
+					"type":3,
+					"price":380
+				},
+			        {
+					"pid":"1019",
+					"pname":"STEAK & POTATO BURRITO",
+					"type":3,
+					"price":40.00
+				},
+				{
+					"pid":"1020",
+					"pname":"EPIC CALI STEAK & GUAC BURRITO",
+					"type":3,
+					"price":380
+				},
+				{
+					"pid":"1021",
+					"pname":"DEL COMBO BURRITO",
+					"type":3,
+					"price":45.00
+				},
+			        {
+					"pid":"1022",
+					"pname":"DEL CHICKEN BURRITO",
+					"type":3,
+					"price":4.00
+				},
+				{
+					"pid":"1023",
+					"pname":"8 LAYER VEGGIE BURRITO",
+					"type":3,
+					"price":3.80
+				},
+			        {
+					"pid":"1024",
+					"pname":"FOUNTAIN DRINKS",
+					"type":4,
+					"price":40
+				},
+				{
+					"pid":"1025",
+					"pname":"REAL STRAWBERRY LEMONADE",
+					"type":4,
+					"price":380
+				},			        
+			        {
+					"pid":"1026",
+					"pname":"PRIMA JAVA ICED COFFEE",
+					"type":4,
+					"price":40
+				},
+				{
+					"pid":"1027",
+					"pname":"GOLD PEAK® ICED TEA",
+					"type":4,
+					"price":32
+				}]
+			}
+}
