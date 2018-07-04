@@ -19,163 +19,181 @@
 {"bid":"b006", "bname":"E LINCOLN AVE ANAHEIM"}],
 		"products":[{
 					"pid":"1001",
-					"pname":"VEGGIE BURGER",
+					"pname":"Route1",
 					"type":1,
 					"price":80.00
 				},
 				{
 					"pid":"1002",
-					"pname":"CHICKEN BURGER",
+					"pname":"Route2",
 					"type":1,
 					"price":120.00
 				},
 				{
 					"pid":"1003",
-					"pname":"ALOO PATTY BURGER",
+					"pname":"Route3",
 					"type":1,
 					"price":150.10
 				},
 				{
 					"pid":"1004",
-					"pname":"FISH AND CHIPS",
+					"pname":"Route4",
 					"type":1,
 					"price":200.00
 				},
 				{
 					"pid":"1005",
-					"pname":"MEDIUM FRIES",
+					"pname":"Route5",
 					"type":2,
 					"price":120
 				},
 				{
 					"pid":"1006",
-					"pname":"LARGE FRIES",
+					"pname":"Route6",
 					"type":2,
 					"price":180.00
 				},
 				{
 					"pid":"1007",
-					"pname":"VEGGIE PATTY",
+					"pname":"Route7",
 					"type":2,
 					"price":40.00
 				},
 			        {
 					"pid":"1008",
-					"pname":"SPICY PANEER BURGER",
+					"pname":"Route8",
 					"type":2,
 					"price":220.00
 				},
 				{
 					"pid":"1009",
-					"pname":"CHICKEN WINGS",
+					"pname":"Route9",
 					"type":2,
 					"price":220.00
 				},
 				{
 					"pid":"1010",
-					"pname":"POTATO WEDGES",
+					"pname":"Route10",
 					"type":2,
 					"price":40.00
 				},
 			        {
 					"pid":"1011",
-					"pname":"FISH TACO",
+					"pname":"Route11",
 					"type":2,
 					"price":40.00
 				},
 				{
 					"pid":"1012",
-					"pname":"GRILLED CHICKEN TACO",
+					"pname":"Route12",
 					"type":2,
 					"price":380
 				},
 				{
 					"pid":"1013",
-					"pname":"VALUE BURGER",
+					"pname":"Route13",
 					"type":2,
 					"price":40.00
 				},
 			        {
 					"pid":"1014",
-					"pname":"QUESO CRUNCH TACO",
+					"pname":"Route14",
 					"type":2,
 					"price":74.00
 				},
 				{
 					"pid":"1015",
-					"pname":"EPIC QUESO CHICKEN BURRITO",
+					"pname":"Route15",
 					"type":3,
 					"price":380
 				},
 				{
 					"pid":"1016",
-					"pname":"EPIC CHIPOTLE CHICKEN AVOCADO BURRITO",
+					"pname":"Route16",
 					"type":3,
 					"price":400.00
 				},
 			        {
 					"pid":"1017",
-					"pname":"EPIC CARNE ASADA BURRITO",
+					"pname":"Route17",
 					"type":3,
 					"price":224.00
 				},
 				{
 					"pid":"1018",
-					"pname":"EPIC GRILLED CHICKEN AVOCADO BURRITO",
+					"pname":"Route18",
 					"type":3,
 					"price":380
 				},
 			        {
 					"pid":"1019",
-					"pname":"STEAK & POTATO BURRITO",
+					"pname":"Route19",
 					"type":3,
 					"price":40.00
 				},
 				{
 					"pid":"1020",
-					"pname":"EPIC CALI STEAK & GUAC BURRITO",
+					"pname":"Route20",
 					"type":3,
 					"price":380
 				},
 				{
 					"pid":"1021",
-					"pname":"DEL COMBO BURRITO",
+					"pname":"Route21",
 					"type":3,
 					"price":45.00
 				},
 			        {
 					"pid":"1022",
-					"pname":"DEL CHICKEN BURRITO",
+					"pname":"Route22",
 					"type":3,
 					"price":4.00
 				},
 				{
 					"pid":"1023",
-					"pname":"8 LAYER VEGGIE BURRITO",
+					"pname":"Route23",
 					"type":3,
 					"price":3.80
 				},
 			        {
 					"pid":"1024",
-					"pname":"FOUNTAIN DRINKS",
+					"pname":"Route24",
 					"type":4,
 					"price":40
 				},
 				{
 					"pid":"1025",
-					"pname":"REAL STRAWBERRY LEMONADE",
+					"pname":"Route25",
 					"type":4,
 					"price":380
 				},			        
 			        {
 					"pid":"1026",
-					"pname":"PRIMA JAVA ICED COFFEE",
+					"pname":"Route26",
 					"type":4,
 					"price":40
 				},
 				{
 					"pid":"1027",
-					"pname":"GOLD PEAK® ICED TEA",
+					"pname":"Route27",
+					"type":4,
+					"price":32
+				},
+				{
+					"pid":"1028",
+					"pname":"Route28",
+					"type":4,
+					"price":32
+				},
+				{
+					"pid":"1029",
+					"pname":"Route29",
+					"type":4,
+					"price":32
+				},
+				{
+					"pid":"1030",
+					"pname":"Route30",
 					"type":4,
 					"price":32
 				}]
